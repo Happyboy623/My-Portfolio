@@ -36,6 +36,10 @@ section {
     text-align: center;
 }
 
+p {
+    font-size: medium;
+}
+
 #hero .profile-img {
     width: 300px;
 }
